@@ -25,7 +25,7 @@ WhatsApp Bot Multi Device [`Nakataaard/MD`](https://github.com/Nakataaard/MD)
 
 ```bash
 git clone https://github.com/Nakataaard/MD
-cd MD
+cd MD-main
 npm install
 ```
 
@@ -38,7 +38,7 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 git clone https://github.com/Nakataaard/MD
-cd MD
+cd MD-main
 npm install
 ```
 
@@ -75,7 +75,7 @@ Support Me
 * [`Saweria`](https://saweria.co/DikaArdnt)
 
 ## Contact Me
-* [`Wangsap`](https://wa.me/6288292024190)
-* [`Igeh`](https://instagram.com/cak_haho)
-* [`Pesbuk`](https://www.facebook.com/Haho.id)
+* [`Wangsap`](https://wa.me/6285748894171)
+* [`Igeh`](https://instagram.com/nakataa1.a)
+* [`Pesbuk`](https://www.facebook.com/nakata)
 
